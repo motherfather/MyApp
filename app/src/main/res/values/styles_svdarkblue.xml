@@ -51,6 +51,7 @@
         <item name="progressBarStyle">@style/ProgressBar.Svdarkblue</item>
         <item name="titleTextStyle">@style/TitleText.Svdarkblue</item>
         <item name="displayOptions">showTitle</item>    
+        <item name="height">32dp</item>
 
     </style>
 
@@ -94,7 +95,7 @@
     <!-- 9. Title Text 스타일 추가 -->
     <style name="TitleText.Svdarkblue" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
         <item name="android:textColor">@android:color/white</item>
-        <item name="android:textSize">16sp</item>
+        <item name="android:textSize">12sp</item>
     </style>
 
 </resources>
